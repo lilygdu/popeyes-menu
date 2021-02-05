@@ -11,3 +11,33 @@ body {
   font-family: chicken_sans_bold;
   text-align: center;
 }
+
+#logo {
+  height: 2rem;
+  width: auto;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+#left-nav li {
+  list-style: none;
+  display: flex;
+}
+
+#left-nav ul {
+  display: flex;
+}
+
+#left-nav a {
+  text-decoration: none;
+  display: flex;
+  color: #f88124;
+}
+
+#main-menu {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
