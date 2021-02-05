@@ -1,6 +1,6 @@
 # Popeyes Menu
 
-Mocking <https://www.popeyes.com/explore-menu>
+Mocking https://www.popeyes.com/menu
 
 Using only HTML/CSS, mock the Popeyes menu as best you can.
 Use the provided images and font in the `assets` folder!
