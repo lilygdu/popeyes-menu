@@ -6,3 +6,8 @@
 * {
   box-sizing: border-box;
 }
+
+body {
+  font-family: chicken_sans_bold;
+  text-align: center;
+}
